@@ -1,0 +1,69 @@
+.table{
+    text-align: center;
+    border: solid;
+    border-width: 2px;
+}
+
+body {
+    background-color:#F0F0F0;
+}
+
+h1 {
+    color:#F19B2E;
+    text-decoration: underline;
+}
+
+h2 {
+    padding: 20px;
+    color: #FFB14E;
+}
+
+a{
+    color : black;
+}
+
+p.controleurPage{
+    text-align: center;
+
+}
+
+a.navigationPages{
+    text-align: center;
+}
+
+.erreur_retour{
+    text-align: center;
+    color: black;
+}
+
+button.button_connect{
+    margin-top: 10;
+}
+
+.erreur{
+    text-align: center;
+    align: center;
+}
+
+.Title{
+    color: #ffb14e;
+    font-size: 30;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+#footer{
+    position: static;
+    right: 0;
+    left: 0;
+
+}
+
+.suppIconref{
+    max-height: 12px;
+}
+
+.suppIcon{
+    height: 100%;
+}
